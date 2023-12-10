@@ -3,7 +3,7 @@ Algunos libros que he leído, tocado, vivido, viajado...
 
 [https://jonatanmv.github.io/libros/](https://jonatanmv.github.io/libros/)
 
-Y tu no olvides que tienes derecho a:
+Y recuerda... Recuerda que tienes derecho a:
 - no leer
 - saltarte páginas
 - no terminar un libro
