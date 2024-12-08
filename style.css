@@ -1,0 +1,50 @@
+:root {
+    --bgcolor: whitesmoke;
+    --color: #777;
+    }
+
+body {
+    background-color: var(--bgcolor);
+    color: var(--color);
+    font-family: 'Times New Roman', serif;
+}
+
+#container {
+    margin: 0 auto;
+    max-width: 1200px;
+    padding: 10px;
+}
+
+.grid {
+    display: grid;
+    grid-auto-flow: row;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 20px;
+    padding: 10px;
+}
+
+.grid div {
+    padding: 5px;
+    text-align: center;
+}
+
+.grid img {
+    max-width: 100%;
+}
+
+.grid div h2, h3 {
+    font-size: 0.9em;
+    margin: 5px 0;
+    text-align: right;
+}
+
+.grid div h2 {
+    border-top: 1px solid var(--color);
+
+    padding-top: 10px;
+    text-transform: uppercase;
+}
+
+.grid div h3 {
+    font-style: italic;
+}
