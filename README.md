@@ -1,5 +1,5 @@
 # Libros
-Algunos libros caralludos que he leído, tocado, vivido, viajado... 
+Algunos libros *caralludos* que he leído, tocado, vivido, viajado... 
 
 [https://jonatanmv.github.io/caralludos/](https://jonatanmv.github.io/libros/)
 
