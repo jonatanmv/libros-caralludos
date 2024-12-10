@@ -1,9 +1,9 @@
 # Libros
 Algunos libros *caralludos* que he leído, tocado, vivido, viajado... 
 
-[https://jonatanmv.github.io/caralludos/](https://jonatanmv.github.io/libros/)
+[https://jonatanmv.github.io/caralludos/](https://jonatanmv.github.io/caralludos/)
 
-Y recuerda que como alguien dijo... Recuerda que tienes derecho a:
+Y recuerda que tienes derecho a:
 - no leer
 - saltarte páginas
 - no terminar un libro
