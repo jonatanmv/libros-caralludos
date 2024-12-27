@@ -1,7 +1,7 @@
 # Libros
 Algunos libros *caralludos* que he leído, tocado, vivido, viajado... 
 
-[https://jonatanmv.github.io/caralludos/](https://jonatanmv.github.io/caralludos/)
+[https://jonatanmv.github.io/libros-caralludos/](https://jonatanmv.github.io/libros-caralludos/)
 
 Y recuerda que tienes derecho a:
 - no leer
