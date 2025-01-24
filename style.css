@@ -15,6 +15,10 @@ body {
     padding: 10px;
 }
 
+.border {
+    border-width: 1px; border-style: solid; border-color: var(--color);
+}
+
 .grid {
     display: grid;
     grid-auto-flow: row;
@@ -40,7 +44,6 @@ body {
 
 .grid div h2 {
     border-top: 1px solid var(--color);
-
     padding-top: 10px;
     text-transform: uppercase;
 }
